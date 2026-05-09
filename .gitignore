@@ -1,0 +1,6 @@
+.DS_Store
+.cache/
+.tmp-yt/
+
+# Avoid accidentally turning an empty nested repo into a submodule.
+price-action/
